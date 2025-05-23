@@ -1,4 +1,4 @@
-# 💬 Next Chat App
+# 💬 Simple Chat App
 
 A simple and modern chat interface built with **Next.js 15**, **React 19**, and **Tailwind CSS 4**. This application integrates with **Ollama** to deliver LLM-based conversations in real time.
 
